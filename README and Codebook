@@ -1,0 +1,11 @@
+This repo consists of my completed assignment for the Getting and Cleaning Data Peer Assessment
+
+To run the program, execute "run.analysis.R". 
+
+Codebook:
+	1. Activity Variables:
+		a. Laying
+		b. Sitting
+		c. Standing
+		d. Walking Downstairs
+		e. Walking Upstairs
