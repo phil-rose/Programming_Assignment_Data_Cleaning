@@ -1,6 +1,6 @@
 This repo consists of my completed assignment for the Getting and Cleaning Data Peer Assessment
 
-To run the program, execute "run.analysis.R". 
+To run the program, execute "run.analysis.R". - See README.md for more information
 
 Codebook:
 	1. Activity Variables:
